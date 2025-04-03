@@ -1,0 +1,1 @@
+export { default as trollFace } from "./troll-face.png"
